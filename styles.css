@@ -157,8 +157,7 @@ p {
     gap: 1rem;
     align-items: stretch;
     justify-content: flex-start;
-    /* max-width: 330px; */
-    width: 100%;
+    width: 90%;
 }
 
 .sub-articles-img {
